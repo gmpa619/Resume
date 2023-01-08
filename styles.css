@@ -1,4 +1,4 @@
-body{background-color:#F1EEE9;}
+body{background-color:white;}
 hr{border-style: none;
 border-top-style: double;
 border-color: black;
@@ -16,3 +16,11 @@ td{margin:0;}
 table {
   border-collapse: collapse;
 }
+.data{position:relative;
+    bottom:210px;
+    right:0;}
+.icon{width: 25px;
+height:;
+display: inline-block;}
+.iconText{display:inline}
+.iconCon{padding-left: 40px;}
